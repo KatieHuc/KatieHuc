@@ -1,4 +1,4 @@
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) [Awesome](https://img.shields.io/badge/for-hire-purple)
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) (https://img.shields.io/badge/for-hire-purple)
 
 
 - 👋 Hi, I’m @KatieHuc
