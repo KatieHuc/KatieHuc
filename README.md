@@ -1,4 +1,4 @@
-![<Java Script>](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+![<JavaScript>](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5) ![<SQL>](https://img.shields.io/badge/logo-SQL-blue?logo=SQL&logoColor=f5f5f5) ![<Excel>](https://img.shields.io/badge/logo-Excel-blue?logo=Excel&logoColor=f5f5f5) ![<Python>](https://img.shields.io/badge/logo-Python-blue?logo=Python&logoColor=f5f5f5) 
 
 - 👋 Hi, I’m @KatieHuc
 - 👀 I’m interested in ...
