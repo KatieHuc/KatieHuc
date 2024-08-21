@@ -12,7 +12,7 @@
 + Corporate Finance-
   + Modeling, Quarterly Forecasting, Actuals Analysis, Vendor Management, Head Count, IT Cost Showbacks, TBM
 + Marketing-
-  + Dashboards, KPI tracking, A/B Testing
+  + Dashboards, KPI tracking, A/B Testing, Campaign/ Ad Level Analysis, Influencer Results Reporting, SEO Analysis
   + Facebook/ Google/ Shopify/ Tiktok/ Pinterests/ Snapchat Data
 + Supply Chain-
   + Inventory Analysis, Shipment Estimates, Cost Tracking, Company Wide VBA Automation Project
