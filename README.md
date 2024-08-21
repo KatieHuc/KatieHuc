@@ -1,4 +1,5 @@
-![<JavaScript>](https://img.shields.io/badge/JavaScript-fdffb6) ![<SQL>](https://img.shields.io/badge/SQL-ffc6ff) ![<Python>](https://img.shields.io/badge/SQL-bdb2ff) ![<Google_Sheets>](https://img.shields.io/badge/Google_Sheets-AppScript-ffadad) ![<Excel>](https://img.shields.io/badge/Excel-VBA-caffbf)
+![<JavaScript>](https://img.shields.io/badge/JavaScript-fdffb6) ![<SQL>](https://img.shields.io/badge/SQL-ffc6ff) ![<Python>](https://img.shields.io/badge/Python-bdb2ff) 
+![<Google_Sheets>](https://img.shields.io/badge/Google_Sheets-AppScript-ffadad) ![<Excel>](https://img.shields.io/badge/Excel-VBA-caffbf)
 
 - 👋 Hi, I’m @KatieHuc
 - 👀 I’m interested in ...
