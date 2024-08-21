@@ -1,4 +1,4 @@
- ![<SQL>](https://img.shields.io/badge/SQL-ffc6ff) ![<Python>](https://img.shields.io/badge/Python-bdb2ff) ![<Google_Sheets>](https://img.shields.io/badge/Google_Sheets-AppScript-ffadad) ![<Excel>](https://img.shields.io/badge/Excel-VBA-caffbf) ![<JavaScript>](https://img.shields.io/badge/JavaScript-fdffb6)
+ ![<SQL>](https://img.shields.io/badge/SQL-ffc6ff) ![<Python>](https://img.shields.io/badge/Python-bdb2ff) ![<Jupyter_Notebook>](https://img.shields.io/badge/Jupyter_Notebook-ffd6a5) ![<Google_Sheets>](https://img.shields.io/badge/Google_Sheets-AppScript-ffadad) ![<Excel>](https://img.shields.io/badge/Excel-VBA-caffbf) ![<JavaScript>](https://img.shields.io/badge/JavaScript-fdffb6)
 
 # 🙋‍♀️ Hello, I'm Katie! 
 ## Self Taught Data Analyst with expertise in reporting, business analysis, and everything spreadsheets.
@@ -32,5 +32,5 @@
 
 <!---
 KatieHuc/KatieHuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Color Palette (https://coolors.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc)
 --->
