@@ -1,4 +1,4 @@
-![<JavaScript>](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5) ![<SQL>](https://img.shields.io/badge/logo-SQL-blue?logo=SQL&logoColor=f5f5f5) ![<Excel>](https://img.shields.io/badge/logo-Excel-blue?logo=Excel&logoColor=f5f5f5) ![<Python>](https://img.shields.io/badge/logo-Python-blue?logo=Python&logoColor=f5f5f5) 
+![<JavaScript>](https://img.shields.io/badge/JavaScript-8A2BE2) ![<SQL>](https://img.shields.io/badge/SQL-8A2BE2) ![<Google_Sheets>](https://img.shields.io/badge/Google_Sheets-AppScript-red) ![<Excel>](https://img.shields.io/badge/Excel-VBA-green)
 
 - 👋 Hi, I’m @KatieHuc
 - 👀 I’m interested in ...
