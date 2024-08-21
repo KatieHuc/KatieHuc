@@ -1,5 +1,4 @@
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white) (https://img.shields.io/badge/for-hire-purple)
-
+![<Java Script>](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
 
 - 👋 Hi, I’m @KatieHuc
 - 👀 I’m interested in ...
