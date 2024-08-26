@@ -21,8 +21,8 @@
 <br> Welcome to my portfolio, where I showcase my projects. I am working on curating some of my top projects for my Github page, stay tuned!
 
 ## 🛠️ Tools
-+ Spreadsheets: PowerQuery, Appscript, VBA
-+ Language: SQL, Python, dabble in HTML for fun 	<sup> As you can tell </sup>
++ Spreadsheets: Excel and Google Sheets Expert, PowerQuery, Appscript, VBA
++ Language: SQL, Learning Python, dabble in HTML for fun 	<sup> As you can tell </sup>
 + Database: MySQL
 + Visualization: PowerBI, Tableau, Looker Studio
 
