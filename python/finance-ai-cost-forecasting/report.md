@@ -33,6 +33,8 @@ The notebook joins the usage logs with HR data and derives calendar features suc
 
 ### Actual vs. ideal vs. forecast remaining tokens
 
+![Contract burndown chart](assets/burndown_overview.png)
+
 The core of the project is a **burndown chart** with three lines:
 
 - **Ideal Remaining**  
