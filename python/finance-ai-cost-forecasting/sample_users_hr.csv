@@ -1,0 +1,101 @@
+user_email,cost_center,manager,title,department,location
+user001@example.com,CC_FINANCE,alice.manager@example.com,Senior Analyst,Finance,Houston
+user002@example.com,CC_FINANCE,alice.manager@example.com,Analyst,Finance,Houston
+user003@example.com,CC_FINANCE,alice.manager@example.com,Analyst,Finance,Houston
+user004@example.com,CC_FINANCE,alice.manager@example.com,Director,Finance,Houston
+user005@example.com,CC_FINANCE,alice.manager@example.com,Manager,Finance,Houston
+user006@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user007@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user008@example.com,CC_FINANCE,bob.lead@example.com,Senior Analyst,Finance,Austin
+user009@example.com,CC_FINANCE,bob.lead@example.com,Manager,Finance,Austin
+user010@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Houston
+user011@example.com,CC_ENGINEERING,carol.manager@example.com,Senior Engineer,Engineering,Houston
+user012@example.com,CC_ENGINEERING,carol.manager@example.com,Engineer,Engineering,Houston
+user013@example.com,CC_ENGINEERING,carol.manager@example.com,Engineer,Engineering,Houston
+user014@example.com,CC_ENGINEERING,carol.manager@example.com,Staff Engineer,Engineering,Houston
+user015@example.com,CC_ENGINEERING,carol.manager@example.com,Principal Engineer,Engineering,Houston
+user016@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user017@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user018@example.com,CC_ENGINEERING,dave.lead@example.com,Senior Engineer,Engineering,Austin
+user019@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user020@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Houston
+user021@example.com,CC_ENGINEERING,erin.manager@example.com,Account Executive,Sales,New York
+user022@example.com,CC_ENGINEERING,erin.manager@example.com,Sales Engineer,Sales,New York
+user023@example.com,CC_ENGINEERING,erin.manager@example.com,Sales Engineer,Sales,New York
+user024@example.com,CC_SALES,erin.manager@example.com,Sales Ops Analyst,Sales,New York
+user025@example.com,CC_SALES,erin.manager@example.com,Director of Sales,Sales,New York
+user026@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user027@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user028@example.com,CC_ENGINEERING,frank.lead@example.com,Sales Engineer,Sales,Chicago
+user029@example.com,CC_SALES,frank.lead@example.com,Sales Ops Analyst,Sales,Chicago
+user030@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user031@example.com,CC_ENGINEERING,grace.manager@example.com,Product Manager,Product,Houston
+user032@example.com,CC_ENGINEERING,grace.manager@example.com,Product Manager,Product,Houston
+user033@example.com,CC_PRODUCT,grace.manager@example.com,Product Designer,Product,Houston
+user034@example.com,CC_PRODUCT,grace.manager@example.com,UX Researcher,Product,Houston
+user035@example.com,CC_PRODUCT,grace.manager@example.com,Director of Product,Product,Houston
+user036@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user037@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user038@example.com,CC_PRODUCT,henry.lead@example.com,Product Designer,Product,San Francisco
+user039@example.com,CC_PRODUCT,henry.lead@example.com,UX Researcher,Product,San Francisco
+user040@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user041@example.com,CC_OPERATIONS,irene.manager@example.com,Operations Analyst,Operations,Houston
+user042@example.com,CC_OPERATIONS,irene.manager@example.com,Operations Analyst,Operations,Houston
+user043@example.com,CC_OPERATIONS,irene.manager@example.com,Senior Ops Analyst,Operations,Houston
+user044@example.com,CC_OPERATIONS,irene.manager@example.com,Director of Operations,Operations,Houston
+user045@example.com,CC_OPERATIONS,irene.manager@example.com,Ops Manager,Operations,Houston
+user046@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user047@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user048@example.com,CC_OPERATIONS,jack.lead@example.com,Senior Ops Analyst,Operations,Dallas
+user049@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Manager,Operations,Dallas
+user050@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Analyst,Operations,Dallas
+user051@example.com,CC_ENGINEERING,carol.manager@example.com,Engineer,Engineering,Houston
+user052@example.com,CC_ENGINEERING,carol.manager@example.com,Engineer,Engineering,Houston
+user053@example.com,CC_ENGINEERING,carol.manager@example.com,Engineer,Engineering,Houston
+user054@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user055@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user056@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user057@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user058@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user059@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user060@example.com,CC_ENGINEERING,dave.lead@example.com,Engineer,Engineering,Austin
+user061@example.com,CC_ENGINEERING,frank.lead@example.com,Account Executive,Sales,Chicago
+user062@example.com,CC_ENGINEERING,frank.lead@example.com,Account Executive,Sales,Chicago
+user063@example.com,CC_ENGINEERING,frank.lead@example.com,Sales Engineer,Sales,Chicago
+user064@example.com,CC_ENGINEERING,frank.lead@example.com,Sales Ops Analyst,Sales,Chicago
+user065@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user066@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user067@example.com,CC_SALES,frank.lead@example.com,Sales Engineer,Sales,Chicago
+user068@example.com,CC_SALES,frank.lead@example.com,Sales Ops Analyst,Sales,Chicago
+user069@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user070@example.com,CC_SALES,frank.lead@example.com,Account Executive,Sales,Chicago
+user071@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user072@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user073@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user074@example.com,CC_PRODUCT,henry.lead@example.com,Product Designer,Product,San Francisco
+user075@example.com,CC_PRODUCT,henry.lead@example.com,UX Researcher,Product,San Francisco
+user076@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user077@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user078@example.com,CC_PRODUCT,henry.lead@example.com,Product Designer,Product,San Francisco
+user079@example.com,CC_PRODUCT,henry.lead@example.com,UX Researcher,Product,San Francisco
+user080@example.com,CC_PRODUCT,henry.lead@example.com,Product Manager,Product,San Francisco
+user081@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user082@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user083@example.com,CC_OPERATIONS,jack.lead@example.com,Senior Ops Analyst,Operations,Dallas
+user084@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Manager,Operations,Dallas
+user085@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Analyst,Operations,Dallas
+user086@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user087@example.com,CC_OPERATIONS,jack.lead@example.com,Operations Analyst,Operations,Dallas
+user088@example.com,CC_OPERATIONS,jack.lead@example.com,Senior Ops Analyst,Operations,Dallas
+user089@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Manager,Operations,Dallas
+user090@example.com,CC_OPERATIONS,jack.lead@example.com,Ops Analyst,Operations,Dallas
+user091@example.com,CC_ENGINEERING,bob.lead@example.com,Analyst,Finance,Austin
+user092@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user093@example.com,CC_FINANCE,bob.lead@example.com,Senior Analyst,Finance,Austin
+user094@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user095@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user096@example.com,CC_FINANCE,bob.lead@example.com,Senior Analyst,Finance,Austin
+user097@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user098@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user099@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
+user100@example.com,CC_FINANCE,bob.lead@example.com,Analyst,Finance,Austin
