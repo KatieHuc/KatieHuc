@@ -12,6 +12,7 @@ All analysis is done in a single notebook (`ai_contract_burndown.ipynb`) using t
 - `sample_token_usage.csv` — daily token usage by user
 - `sample_users_hr.csv` — HR metadata (cost center, manager, title, department, location)
 
+![Sample Token Usage Data Head](assets/sample_data.PNG)
 ---
 
 ## Data and contract setup
@@ -76,6 +77,8 @@ This view lets stakeholders visually compare:
 ## Cost center usage and per‑capita behavior
 
 ### Total usage by cost center
+![Total Usage by Cost Center](assets/total_use_by_cc.PNG)
+![Total Usage by Cost Center by Month](assets/total_use_by_cc_by_month.PNG)
 
 The notebook aggregates token usage by cost center and computes several metrics:
 
@@ -96,6 +99,8 @@ All numeric columns are displayed with:
 - Per‑capita values with two decimals
 
 ### Per‑capita usage by cost center
+
+![Total Usage by Cost Center per capita](assets/total_use_by_cc_per_cap.PNG)
 
 A separate chart focuses explicitly on **per‑capita** usage:
 
@@ -121,13 +126,14 @@ The notebook computes user‑level totals and builds a **concentration table**:
 
 In the sample data, the output looks like:
 
-- `top_10_user_share` ≈ **30.58%**
-- `top_20_user_share` ≈ **50.94%**
-- `total_usage` ≈ **632,278,780 tokens**
+![Total Usage Sahre](assets/total_use_share.PNG)
 
 This tells a compact story: roughly half of all usage is coming from the top 20 users. That level of concentration is useful for access management, cost controls, and identifying power users who may need extra support or governance.
 
 ### Top 20 users detail
+
+![Total Usage by Individual Bar Chart](assets/total_use_by_user_bar.PNG)
+![Total Usage by Individual Table](assets/total_use_by_user_tbl.PNG)
 
 A separate table lists the top 20 users with:
 
@@ -147,6 +153,8 @@ This helps answer questions like:
 ## Weekly seasonality and recent dynamics
 
 ### Weekday usage profile
+
+![Weekly Usage](assets/weekly_usage.PNG)
 
 To capture weekly seasonality, the notebook builds a **weekday profile**:
 
@@ -182,6 +190,7 @@ This growth estimate, combined with the weekday profile, feeds directly into the
 ---
 
 ## Forecast and projected runout
+![Forecast Table Table](assets/projected_runout.PNG)
 
 Using the recent burn rate, estimated growth, and weekday profile, the notebook:
 
@@ -207,12 +216,15 @@ All numbers are formatted with thousands separators to be presentation‑ready.
 
 ## Roles and titles
 
+![Total Usage by Title](assets/total_use_by_title.PNG)
 Finally, the notebook looks at token usage by **job title**:
 
 - Monthly aggregation of tokens by (month, title)
 - Identification of the top 10 titles by total token usage
 - A multi‑line chart showing **monthly total tokens** for these top titles over time
 
+
+![Total Usage by Title  per capita](assets/total_use_by_title_per_capita.PNG)
 A variant of this analysis computes **per‑capita tokens per title per month**, allowing comparisons such as:
 
 - “Which roles have the highest average usage per person?”
